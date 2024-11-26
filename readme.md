@@ -14,9 +14,11 @@
 
 1. สร้าง Project
 
+    ```txt
     1. Ctrl + Shift + P
-    1. > Java: Create Java Project
-    1. No build tools
+    2. "> Java: Create Java Project"
+    3. No build tools
+    ```
 
 1. สร้างไฟล์ .java ใน src/ และกด "run java"
 
