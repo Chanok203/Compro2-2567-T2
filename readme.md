@@ -12,7 +12,13 @@
     - Extension Pack for Java
         ![Extension Pack for Java](asset/extension_pack_for_java.png "Extension Pack for Java")
 
-1. สร้างไฟล์ .java และกด "run java"
+1. สร้าง Project
+
+    1. Ctrl + Shift + P
+    1. > Java: Create Java Project
+    1. No build tools
+
+1. สร้างไฟล์ .java ใน src/ และกด "run java"
 
     ![LastDigit Code](asset/last_digit_code.png "LastDigit Code")
 
